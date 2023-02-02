@@ -1,2 +1,4 @@
 # multi-target-tracking
 Multi sensor, multi target tracking that are neither fully nor directly observable.
+
+"Multi-Target Tracking" is a computer vision project aimed at developing algorithms to track multiple objects in real-time data streams from different sensors. The project involves analyzing each scanned frames to detect and identify individual objects, and then using these detections to estimate the objects' trajectories over time. The main goal of this project is to accurately track multiple objects in a cluttered environment, where objects may overlap or disappear and reappear, and to keep track of the objects' positions and movements even as they change over time. To achieve this goal, the project will likely use a combination of object detection, object tracking, and data association techniques, and will be implemented using a combination of machine learning and computer vision algorithms.
